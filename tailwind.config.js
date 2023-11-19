@@ -15,8 +15,8 @@ module.exports = {
         success: '#27AE60',
         warning: '#E2b93b',
         error: '#eb5757',
-        primary: '#195A00',
-        secondary: '#af872f',
+        primary: '#BC9A6C',
+        secondary: '#EDEAE3',
       },
       fontFamily: {
         miniver: ['Miniver', 'cursive'],

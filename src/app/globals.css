@@ -16,5 +16,9 @@
   }
 }
 
-.nav_btn {
+.header {
+  background: url(/header.png);
+  background-color: rgba(0, 0, 0, 0.829);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
